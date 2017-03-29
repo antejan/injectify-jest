@@ -1,4 +1,4 @@
-Injectify loader for jest.
+[Injectify](https://github.com/ftdebugger/injectify) loader for [jest](https://github.com/facebook/jest).
 
 Put it into your package.json:
 
