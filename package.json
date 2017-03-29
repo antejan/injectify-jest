@@ -1,6 +1,6 @@
 {
   "name": "injectify-jest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Injectify loader for jest",
   "main": "index.js",
   "scripts": {
